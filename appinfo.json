@@ -1,0 +1,37 @@
+{
+    "appKeys": {
+        "CFG_INVERT_COL": 13,
+        "CFG_LINE_GRAPH": 15,
+        "CFG_PORT": 16,
+        "CFG_SHOW_HEIGHTS": 14,
+        "KEY_HEIGHT_0": 9,
+        "KEY_HEIGHT_1": 10,
+        "KEY_HEIGHT_2": 11,
+        "KEY_HEIGHT_3": 12,
+        "KEY_STATE_0": 1,
+        "KEY_STATE_1": 3,
+        "KEY_STATE_2": 5,
+        "KEY_STATE_3": 7,
+        "KEY_TIME_0": 2,
+        "KEY_TIME_1": 4,
+        "KEY_TIME_2": 6,
+        "KEY_TIME_3": 8,
+        "MSG_TYPE": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "avocalodge@gmail.com",
+    "longName": "TidesUK",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "TidesUK",
+    "uuid": "3dee6d28-1e53-4d0b-b0f6-f6f6ffdbb4dc",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
